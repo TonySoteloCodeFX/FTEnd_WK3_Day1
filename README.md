@@ -1,0 +1,3 @@
+Wireframe Image: product_registration_wireframe
+
+Prototype Image: product_registration_prototype
